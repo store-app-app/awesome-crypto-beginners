@@ -27,11 +27,11 @@
 
 新手只需要先开一个账户，别贪多。下面三家是给小白的首选，深度好、中文页面全、出问题好找客服。
 
-1. **币安 Binance**：[返佣注册](https://www.binance.com/register?ref=VIPBA)，邀请码 `VIPBA`。规模最大，币种最全，现货流动性最好，第一次买币最不容易吃亏。[实测详情](https://www.usdtbi.com/sites/27.html?utm_source=github-beginner&utm_medium=readme)
-2. **欧易 OKX**：[返佣注册](https://www.okx.com/join/8422398)，邀请码 `8422398`。中文体验友好，App 上手简单，C2C 商家多，入金省心。[实测详情](https://www.usdtbi.com/sites/28.html?utm_source=github-beginner&utm_medium=readme)
-3. **Bitget**：[返佣注册](https://www.bitget.com/zh-CN/referral/register?clacCode=0T9NJEK3)，邀请码 `0T9NJEK3`。跟单与活动多，手续费返还比例高，适合小资金起步。[实测详情](https://www.usdtbi.com/sites/31.html?utm_source=github-beginner&utm_medium=readme)
+1. **币安 Binance**：[返佣注册](https://www.binance.com/register?ref=VIPBA)。规模最大，币种最全，现货流动性最好，第一次买币最不容易吃亏。[实测详情](https://www.usdtbi.com/sites/27.html?utm_source=github-beginner&utm_medium=readme)
+2. **欧易 OKX**：[返佣注册](https://www.okx.com/join/8422398)。中文体验友好，App 上手简单，C2C 商家多，入金省心。[实测详情](https://www.usdtbi.com/sites/28.html?utm_source=github-beginner&utm_medium=readme)
+3. **Bitget**：[返佣注册](https://www.bitget.com/zh-CN/referral/register?clacCode=0T9NJEK3)。跟单与活动多，手续费返还比例高，适合小资金起步。[实测详情](https://www.usdtbi.com/sites/31.html?utm_source=github-beginner&utm_medium=readme)
 
-> ⚠️ **注册后无法补绑返佣。** 一定先点上面的返佣链接再注册。如果你先用普通方式注册了，事后想补邀请码，绝大多数交易所不支持，返佣就永远拿不到了。
+> ⚠️ **注册后无法补绑返佣。** 一定先点上面的返佣链接再注册。如果你先用普通方式注册了，事后想补返佣，绝大多数交易所不支持，返佣就永远拿不到了。
 
 ---
 
@@ -41,7 +41,7 @@
 
 1. 点上面任意一条返佣链接，进入交易所注册页。
 2. 用邮箱或手机号注册，设置登录密码，**顺手开二步验证（2FA）**，这一步别省。
-3. 确认页面上邀请码已自动填入（币安是 `VIPBA`，欧易是 `8422398`，Bitget 是 `0T9NJEK3`）。没填就手动补上。
+3. 确认页面上返佣标识已自动带入（一般显示“邀请人”或返佣比例已生效）。没带就退回去，重新点返佣链接进。
 4. 做实名认证（KYC）：准备身份证或护照，按提示拍正面、眨眼或点头。认证等级越高，C2C 出入金额度越大。
 5. 认证通过后，先把 Google Authenticator 之类的验证器绑好，登录和提现都要用它。
 
@@ -107,20 +107,20 @@
 
 为什么要强调走返佣链接：**邀请关系在注册那一刻写入，之后无法补绑。** 同样交易 1 万元，有返佣和没返佣的手续费差出一截，长年累月不是小数目。
 
-全部 10 家邀请码一览（点链接直达注册页）：
+全部 10 家返佣入口一览（点链接直达注册页，返佣自动绑定）：
 
-| 交易所 | 邀请码 | 返佣注册链接 |
-| --- | --- | --- |
-| 币安 Binance | `VIPBA` | [注册](https://www.binance.com/register?ref=VIPBA) |
-| 欧易 OKX | `8422398` | [注册](https://www.okx.com/join/8422398) |
-| Gate.io | `AVLFUFBZ` | [注册](https://www.gate.io/signup/AVLFUFBZ?ref_type=103) |
-| MEXC 抹茶 | `12M5Ua` | [注册](https://www.mexc.com/register?inviteCode=12M5Ua) |
-| Bitget | `0T9NJEK3` | [注册](https://www.bitget.com/zh-CN/referral/register?clacCode=0T9NJEK3) |
-| Bybit | `NL5KR5W` | [注册](https://www.bybit.com/invite?ref=NL5KR5W) |
-| CoinW 必赢 | `r=2851320` | [注册](https://www.coinw.com/zh_CN/register?r=2851320) |
-| WEEX 唯客 | `7igyj` | [注册](https://support.weex.com/zh-CN/register?vipCode=7igyj) |
-| XT.com | `UTHXDV` | [注册](https://www.xt.com/zh-CN/accounts/register?ref=UTHXDV) |
-| Pionex 派网 | `r=0TLCXJwf1bn` | [注册](https://www.pionex.com/zh-TW/signUp?r=0TLCXJwf1bn) |
+| 交易所 | 返佣注册链接 |
+| --- | --- |
+| 币安 Binance | [注册](https://www.binance.com/register?ref=VIPBA) |
+| 欧易 OKX | [注册](https://www.okx.com/join/8422398) |
+| Gate.io | [注册](https://www.gate.io/signup/AVLFUFBZ?ref_type=103) |
+| MEXC 抹茶 | [注册](https://www.mexc.com/register?inviteCode=12M5Ua) |
+| Bitget | [注册](https://www.bitget.com/zh-CN/referral/register?clacCode=0T9NJEK3) |
+| Bybit | [注册](https://www.bybit.com/invite?ref=NL5KR5W) |
+| CoinW 必赢 | [注册](https://www.coinw.com/zh_CN/register?r=2851320) |
+| WEEX 唯客 | [注册](https://support.weex.com/zh-CN/register?vipCode=7igyj) |
+| XT.com | [注册](https://www.xt.com/zh-CN/accounts/register?ref=UTHXDV) |
+| Pionex 派网 | [注册](https://www.pionex.com/zh-TW/signUp?r=0TLCXJwf1bn) |
 
 比例与奖励以各所活动页公示为准；到账规则可对照各所实测详情页核对。
 
