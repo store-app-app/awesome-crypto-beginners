@@ -1,6 +1,6 @@
 # 加密货币新手入门 | 从注册到第一笔交易全指南 Crypto Beginners
 
-> https://www.usdtbi.com ｜ 更新：2026-09-24，持续更新
+> https://www.usdtbi.com ｜ 更新：2026-10-05，持续更新
 
 **新手入门、第一次买币看这里：本页是一份写给纯小白的注册教程，从选币安、欧易这类大所开始，手把手带你走完注册、充值、下单、防骗全流程，重点讲清返佣怎么拿、坑怎么躲，内容持续更新，照着做就行。**
 
@@ -27,9 +27,9 @@
 
 新手只需要先开一个账户，别贪多。下面三家是给小白的首选，深度好、中文页面全、出问题好找客服。
 
-1. **币安 Binance**：[返佣注册](https://www.binance.com/register?ref=VIPBA)。规模最大，币种最全，现货流动性最好，第一次买币最不容易吃亏。[实测详情](https://www.usdtbi.com/sites/27.html?utm_source=github-beginner&utm_medium=readme)
-2. **欧易 OKX**：[返佣注册](https://www.okx.com/join/8422398)。中文体验友好，App 上手简单，C2C 商家多，入金省心。[实测详情](https://www.usdtbi.com/sites/28.html?utm_source=github-beginner&utm_medium=readme)
-3. **Bitget**：[返佣注册](https://www.bitget.com/zh-CN/referral/register?clacCode=0T9NJEK3)。跟单与活动多，手续费返还比例高，适合小资金起步。[实测详情](https://www.usdtbi.com/sites/31.html?utm_source=github-beginner&utm_medium=readme)
+1. **币安 Binance**：[返佣注册](https://www.binance.com/register?ref=VIPBA)。规模最大，币种最全，现货流动性最好，第一次买币最不容易吃亏。
+2. **欧易 OKX**：[返佣注册](https://www.okx.com/join/8422398)。中文体验友好，App 上手简单，C2C 商家多，入金省心。
+3. **Bitget**：[返佣注册](https://www.bitget.com/zh-CN/referral/register?clacCode=0T9NJEK3)。跟单与活动多，手续费返还比例高，适合小资金起步。
 
 > ⚠️ **注册后无法补绑返佣。** 一定先点上面的返佣链接再注册。如果你先用普通方式注册了，事后想补返佣，绝大多数交易所不支持，返佣就永远拿不到了。
 
@@ -45,7 +45,7 @@
 4. 做实名认证（KYC）：准备身份证或护照，按提示拍正面、眨眼或点头。认证等级越高，C2C 出入金额度越大。
 5. 认证通过后，先把 Google Authenticator 之类的验证器绑好，登录和提现都要用它。
 
-图文版照着做即可：[usdtbi 新手指南](https://www.usdtbi.com/guide/?utm_source=github-beginner&utm_medium=readme)。
+图文版可在主站的新手指南栏目查看。
 
 ---
 
@@ -66,7 +66,7 @@
 - 付款留好转账截图，出问题找平台客服时用得上。
 - 出金（卖 U 换人民币）同理，选老商家，钱直接进自己名下的卡。
 
-更多防冻卡细节：[usdtbi 新手指南](https://www.usdtbi.com/guide/?utm_source=github-beginner&utm_medium=readme)。
+更多防冻卡细节可在主站的新手指南栏目查看。
 
 ---
 
@@ -97,7 +97,7 @@
 - **授权撤销**：在链上点过「授权」的额度会一直有效。用 Revoke.cash 之类的工具定期查一遍，把用不到的额度撤销掉。
 - **假 App**：只从交易所官网跳转下载，商店里搜出来的高仿 App 是重灾区。
 
-完整防骗话术拆解：[usdtbi 新手指南](https://www.usdtbi.com/guide/?utm_source=github-beginner&utm_medium=readme)。
+完整防骗话术拆解可在主站的新手指南栏目查看。
 
 ---
 
@@ -148,10 +148,10 @@
 这一页搞定后，按这条线继续走：
 
 1. [主 awesome 清单](https://github.com/kongwangxiang/awesome-usdtbi)：行情数据、DeFi、钱包、链上工具、空投聚合，399 行的完整工具箱，进阶全靠它。
-2. [市场热力图](https://www.usdtbi.com/heatmap?utm_source=github-beginner&utm_medium=readme)：开盘前扫一眼，哪个板块在涨一目了然。
-3. [排行榜](https://www.usdtbi.com/rankings?utm_source=github-beginner&utm_medium=readme)：看看现在大家都在关注什么币、什么工具。
-4. [AI 币种分析](https://www.usdtbi.com/ai/?utm_source=github-beginner&utm_medium=readme)：用大白话提问，快速了解一个币是干嘛的。
-5. [收藏夹总页](https://www.usdtbi.com/favorites/xingqingshuju?utm_source=github-beginner&utm_medium=readme)：各类工具的分类汇总，按需取用。
+2. 市场热力图：开盘前扫一眼，哪个板块在涨一目了然。
+3. 排行榜：看看现在大家都在关注什么币、什么工具。
+4. AI 币种分析：用大白话提问，快速了解一个币是干嘛的。
+5. 收藏夹总页：各类工具的分类汇总，按需取用。
 
 ---
 
@@ -180,4 +180,4 @@ A：正常买币冻卡概率很低，风险主要来自资金来源不干净。�
 
 ---
 
-**关键词**：新手入门, 第一次买币, 加密货币注册教程, 币安邀请码, 欧易邀请码, Bitget 返佣, 返佣是什么意思, 注册后能补返佣吗, C2C 买币, 防骗指南, USDT 怎么买, 现货交易入门, usdtbi, awesome-crypto。
+
