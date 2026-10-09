@@ -1,0 +1,40 @@
+name: 新内容建议
+about: 建议补充的内容、章节或防骗信息
+title: "[建议] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        欢迎补充内容。提出前请先搜索现有 Issue，避免重复。
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: 建议类型
+      options:
+        - 新增防骗话术或风险提示
+        - 新增名词解释
+        - 补充实操细节
+        - 地区差异提示
+        - 结构调整
+        - 其他
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 建议内容
+      description: 你建议增加什么，放在哪一节，为什么对新手有帮助
+      placeholder: 建议在「第五步：安全与防骗」补充：遇到要求开启「屏幕共享」的一律是诈骗，交易所客服从不主动要求这个操作。
+    validations:
+      required: true
+
+  - type: textarea
+    id: basis
+    attributes:
+      label: 依据（可选）
+      description: 官方文档、公告、亲历经验等
+    validations:
+      required: false

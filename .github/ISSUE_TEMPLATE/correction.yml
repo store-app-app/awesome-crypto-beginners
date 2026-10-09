@@ -1,0 +1,54 @@
+name: 内容纠错
+about: 报告文档中的错误、失效链接或过时信息
+title: "[纠错] "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢发现问题。这份文档的目标是让新手照着走不出错，所以纠错是最有价值的贡献。
+
+  - type: textarea
+    id: location
+    attributes:
+      label: 问题位置
+      description: 出错的章节名，例如「第三步：首充与出入金」第 4 条
+      placeholder: 第三步：首充与出入金
+    validations:
+      required: true
+
+  - type: textarea
+    id: issue
+    attributes:
+      label: 当前内容
+      description: 文档现在是怎么写的（复制原文）
+      placeholder: 付款时用商家指定的银行卡转账，备注里带上订单号或商家姓名
+    validations:
+      required: true
+
+  - type: textarea
+    id: correction
+    attributes:
+      label: 实际情况是什么
+      description: 正确的信息，或链接失效的真实情况
+      placeholder: 现在 C2C 订单页会自动带上订单号，不需要手动填备注
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 依据来源（可选）
+      description: 官方文档、平台公告、截图链接等。有依据的纠错会优先处理。
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: check
+    attributes:
+      label: 确认
+      options:
+        - label: 这不是推广内容，文中不包含任何返佣链接
+          required: true
+        - label: 我确认这个问题会影响新手按步骤操作
+          required: false
